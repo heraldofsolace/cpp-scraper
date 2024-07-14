@@ -1,0 +1,6 @@
+.envrc
+flake.nix
+flake.lock
+build/
+.direnv/
+.vscode/
